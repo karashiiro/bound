@@ -36,7 +36,6 @@ This phase implements and tests:
 **Step 1: Rename the file.**
 
 ```bash
-cd /Users/lucalc/Documents/GitHub/bound/.worktrees/command-discovery-redesign
 git mv packages/agent/src/commands/help.ts packages/agent/src/commands/registry.ts
 ```
 
